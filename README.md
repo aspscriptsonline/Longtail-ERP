@@ -27,3 +27,7 @@ Reports & Graphs
 
 Categories: Enterprise Application, Retail Management / 
 Tags: Desktop ERP for Small Business, Desktop ERP source code, ERP for Manufacturing Companies, ERP for Retail Business, ERP for Shopping Malls, ERP Software
+
+YouTube Videos:
+Part1: https://youtu.be/u0E_R7CjI0Q
+Part2: https://youtu.be/-CX7PdCwMM4
